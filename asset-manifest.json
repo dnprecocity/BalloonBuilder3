@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BalloonBuilder3/static/css/main.6f02d933.chunk.css",
+    "main.js": "/BalloonBuilder3/static/js/main.b29feffd.chunk.js",
+    "main.js.map": "/BalloonBuilder3/static/js/main.b29feffd.chunk.js.map",
+    "runtime-main.js": "/BalloonBuilder3/static/js/runtime-main.a69c272e.js",
+    "runtime-main.js.map": "/BalloonBuilder3/static/js/runtime-main.a69c272e.js.map",
+    "static/css/2.7fc0128b.chunk.css": "/BalloonBuilder3/static/css/2.7fc0128b.chunk.css",
+    "static/js/2.66a7b836.chunk.js": "/BalloonBuilder3/static/js/2.66a7b836.chunk.js",
+    "static/js/2.66a7b836.chunk.js.map": "/BalloonBuilder3/static/js/2.66a7b836.chunk.js.map",
+    "static/js/3.f5cc79fd.chunk.js": "/BalloonBuilder3/static/js/3.f5cc79fd.chunk.js",
+    "static/js/3.f5cc79fd.chunk.js.map": "/BalloonBuilder3/static/js/3.f5cc79fd.chunk.js.map",
+    "index.html": "/BalloonBuilder3/index.html",
+    "static/css/2.7fc0128b.chunk.css.map": "/BalloonBuilder3/static/css/2.7fc0128b.chunk.css.map",
+    "static/css/main.6f02d933.chunk.css.map": "/BalloonBuilder3/static/css/main.6f02d933.chunk.css.map",
+    "static/js/2.66a7b836.chunk.js.LICENSE.txt": "/BalloonBuilder3/static/js/2.66a7b836.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a69c272e.js",
+    "static/css/2.7fc0128b.chunk.css",
+    "static/js/2.66a7b836.chunk.js",
+    "static/css/main.6f02d933.chunk.css",
+    "static/js/main.b29feffd.chunk.js"
+  ]
+}
